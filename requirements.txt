@@ -1,0 +1,9 @@
+qiskit>=2.5.0
+qiskit-aer>=0.17.0
+qiskit-nature>=0.7.0
+pyscf>=2.5.0
+stim>=1.16.0
+pymatching>=2.4.0
+numpy>=2.0
+scipy>=1.14
+matplotlib>=3.10
